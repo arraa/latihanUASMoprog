@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/inputItem"
+        android:title="Input"/>
+    <item
+        android:id="@+id/UpdateItem"
+        android:title="Update"/>
+    <item
+        android:id="@+id/DeleteItem"
+        android:title="delete"/>
+    <item
+        android:id="@+id/ShowItem"
+        android:title="show data"/>
+
+</menu>
